@@ -1,5 +1,5 @@
 {
-  "defaultEnv": { "ENV": "NODE_ENV" },
+  "defaultEnv": { "ENV": "ENV" },
   "dev": {
     "user": { "ENV": "POSTGRES_USER" },
     "password": { "ENV": "POSTGRES_PASSWORD" },
